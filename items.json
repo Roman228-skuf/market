@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "name": "Мотокоса 43",
+    "image": "img/kosanofon.png",
+    "default_price": "5499грн",
+    "price_with_discount": "4497грн",
+    "price_with_Coupon": "4395грн"
+    
+  },
+  {
+    "id": 2,
+    "name": "Електричний тример",
+    "image": "img/electrotrim.png",
+    "default_price": "4497грн",
+    "price_with_discount": "3498грн",
+    "price_with_Coupon": "3396грн"
+  },
+  {
+    "id": 3,
+    "name": "Електрична газонокосарка ",
+    "image": "img/gasonokos.png",
+    "default_price": "4497грн",
+    "price_with_discount": "3297грн",
+    "price_with_Coupon": "3195грн"
+  },
+  {
+  "id": 4,
+  "name": "Оприскувач 12N",
+  "image": "img/autopsik.png",
+  "default_price": "2190грн",
+  "price_with_discount": "1698грн",
+  "price_with_Coupon": "1596грн"
+  }
+]
