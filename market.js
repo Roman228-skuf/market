@@ -33,17 +33,17 @@ fetch('items.json')
                 
                 let oldPriceElement = itemElement.querySelector(".old-price");
                 if (oldPriceElement) {
-                    oldPriceElement.textContent = item.oldPrice + " грн";
+                    oldPriceElement.textContent = item.oldPrice;
                 }
 
                 let currentPriceElement = itemElement.querySelector(".current-price");
                 if (currentPriceElement) {
-                    currentPriceElement.textContent = item.currentPrice + " грн";
+                    currentPriceElement.textContent = item.currentPrice;
                 }
 
                 let couponPriceElement = itemElement.querySelector(".price");
                 if (couponPriceElement) {
-                    couponPriceElement.textContent = item.couponPrice + " грн";
+                    couponPriceElement.textContent = item.couponPrice;
                 }
             }
         });
